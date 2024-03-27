@@ -11,6 +11,8 @@ Homework 2 is similar but adds a 3D aspect and a custom shape.
 
 Homework 3 is similar to the previous 2 homework but adds animation and sound.
 
+
+![image](https://github.com/Marcello-Feliciano/Processing/assets/165084564/9359c759-7452-400b-a52f-706b5e49fbb2)
 Homework 4 uses recursion on a character to add more or less of the character in specific patterns.
 
 Homework 5 records a video of the picture added based on user input. It outputs the video recording and the inputs given into a text file.

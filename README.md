@@ -1,3 +1,4 @@
+![image](https://github.com/Marcello-Feliciano/Processing/assets/165084564/b8863e2c-b8ba-495f-b82a-0a4c4d930504)
 AvatarClasses creates a convenience store with characters moving around in front. Clouds move, rain falls, stars glow and one character is holding french fries that can be eaten by pressing the space bar and refills automatically when he reaches the door.
 
 
